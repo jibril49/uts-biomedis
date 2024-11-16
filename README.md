@@ -3,7 +3,7 @@ tugas biomedis
 
 nama kelompok: 
 jibril amjad taqiudin
-dwiki chandra mulyono
+,dwiki chandra mulyono
 
 ![Screenshot 2024-11-16 200849](https://github.com/user-attachments/assets/84dc1b38-4fc5-4b66-826a-562e07c267ec)
 
