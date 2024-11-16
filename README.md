@@ -1,6 +1,10 @@
 # uts-biomedis
 tugas biomedis
 
+nama kelompok: 
+jibril amjad taqiudin
+dwiki chandra mulyono
+
 ![Screenshot 2024-11-16 200849](https://github.com/user-attachments/assets/84dc1b38-4fc5-4b66-826a-562e07c267ec)
 
 ![Screenshot 2024-11-16 200743](https://github.com/user-attachments/assets/515ef97a-1cdb-496a-91f1-23f7805dfcd4)
